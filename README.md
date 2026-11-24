@@ -1,6 +1,5 @@
 # Materials-ML-Concrete-Strength
 Machine learning-assisted prediction and screening of concrete compressive strength.
-**Concise Summary**
 
 This project applies machine learning to predict concrete compressive strength from mixture composition and curing age. Objectives: analyze composition–strength relationships, develop prediction models, interpret feature importance, assess generalization, and explore ML-assisted candidate screening.
 
